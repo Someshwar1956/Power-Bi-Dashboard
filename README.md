@@ -2,15 +2,15 @@
 
 ## Overview
 
-This project explores sales performance for a bike store using Power BI. The goal was to make sense of sales trends, customer behavior, and product performance across different stores and time periods. Everything is pulled together into an interactive dashboard that helps answer real business questions.
+This project looks at how a bike store is doing in terms of sales. Using Power BI, I created a dashboard that helps understand what’s selling well, how customers are behaving, and how different stores are performing over time. The goal was to turn raw data into something useful that can help answer important business questions in a clear and visual way.
 
 **The report includes:**
 
-- Filters to slice the data by city, category, store, and time
-- Year-over-year revenue breakdowns and comparisons to sales goals
-- Insights into which customer segments are driving the most revenue
-- A look at product performance by brand and category
-- Visualizations like bar charts, KPIs, line graphs, and decomposition trees to make the data easy to interpret
+-Easy-to-use filters to view data by city, product category, store, or time period
+-Revenue breakdowns by year, with comparisons to sales targets
+-Insights into which types of customers bring in the most sales
+-A clear view of which brands and products are performing best
+-Visuals like bar charts, KPIs, line graphs, and breakdown trees to help make the data easy to understand
 
 ## Tools & Technologies
 
@@ -24,11 +24,11 @@ The data spans from January 1, 2016, to February 28, 2018.
 
 ## Questions This Dashboard Helps Answer
 
-- Which brands and categories are bringing in the most revenue?
-- How do sales vary across different cities and stores?
-- Which customer types are contributing the most to our bottom line?
-- How close are we to hitting our revenue targets?
-- Where can we focus to improve margins or optimize performance?
+-Which brands and product types are making the most money?
+-How do sales change from one city or store to another?
+-What kinds of customers are spending the most?
+-Are we meeting our sales goals?
+-Where can we cut costs or make improvements to earn more profit?
 
 ## Dashboard Preview
 
@@ -43,5 +43,5 @@ The data spans from January 1, 2016, to February 28, 2018.
 
 ## About Me
 
-Hi, I’m Someshwar Baghel — a data analyst passionate about turning raw data into actionable insights. I enjoy working with tools like Power BI to help businesses make better, data-driven decisions.
+Hi, I’m Someshwar Baghel, Data analyst passionate about turning raw data into actionable insights. I enjoy working with tools like Power BI to help businesses make better, data-driven decisions.
 
