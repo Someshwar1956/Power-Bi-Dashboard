@@ -4,7 +4,7 @@
 
 This project explores sales performance for a bike store using Power BI. The goal was to make sense of sales trends, customer behavior, and product performance across different stores and time periods. Everything is pulled together into an interactive dashboard that helps answer real business questions.
 
-**##The report includes:**
+**The report includes:**
 
 - Filters to slice the data by city, category, store, and time
 - Year-over-year revenue breakdowns and comparisons to sales goals
