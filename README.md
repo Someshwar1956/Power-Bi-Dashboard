@@ -6,11 +6,11 @@ This project looks at how a bike store is doing in terms of sales. Using Power B
 
 **The report includes:**
 
--Easy-to-use filters to view data by city, product category, store, or time period
--Revenue breakdowns by year, with comparisons to sales targets
--Insights into which types of customers bring in the most sales
--A clear view of which brands and products are performing best
--Visuals like bar charts, KPIs, line graphs, and breakdown trees to help make the data easy to understand
+- Easy-to-use filters to view data by city, product category, store, or time period
+- Revenue breakdowns by year, with comparisons to sales targets
+- Insights into which types of customers bring in the most sales
+- A clear view of which brands and products are performing best
+- Visuals like bar charts, KPIs, line graphs, and breakdown trees to help make the data easy to understand
 
 ## Tools & Technologies
 
@@ -24,11 +24,11 @@ The data spans from January 1, 2016, to February 28, 2018.
 
 ## Questions This Dashboard Helps Answer
 
--Which brands and product types are making the most money?
--How do sales change from one city or store to another?
--What kinds of customers are spending the most?
--Are we meeting our sales goals?
--Where can we cut costs or make improvements to earn more profit?
+- Which brands and product types are making the most money?
+- How do sales change from one city or store to another?
+- What kinds of customers are spending the most?
+- Are we meeting our sales goals?
+- Where can we cut costs or make improvements to earn more profit?
 
 ## Dashboard Preview
 
