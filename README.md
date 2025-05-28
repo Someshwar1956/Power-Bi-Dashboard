@@ -32,7 +32,7 @@ The data spans from January 1, 2016, to February 28, 2018.
 
 ## Dashboard Preview
 
-![Dashboard Screenshot]![Screenshot-Bike store Dasboard](https://github.com/user-attachments/assets/8991b5a1-11ff-4df2-8f34-91e84fcfd704)
+[Dashboard Screenshot]![Screenshot-Bike store Dasboard](https://github.com/user-attachments/assets/8991b5a1-11ff-4df2-8f34-91e84fcfd704)
 
 **Feel free to connect:**
 
